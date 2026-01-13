@@ -28,8 +28,8 @@ source venv/bin/activate
 
 Pasang dependensi:
 
-python3 -m pip install --upgrade pip
-
 python3 -m pip install ultralytics opencv-python easyocr flask pillow numpy
 
-Letakkan file video (loki.mp4) dan (opsional) model deteksi best_plate.pt di folder proyek.
+atau
+
+pip3 install -r requirements.txt
